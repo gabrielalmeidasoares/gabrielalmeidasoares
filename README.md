@@ -17,5 +17,4 @@
     <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
 </div><br/>
 
-Apaixonado por tecnologia, e por mudar a vida das pessoas através da programação!
 
