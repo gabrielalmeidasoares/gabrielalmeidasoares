@@ -1,11 +1,8 @@
 ## Opa! 😀
 </br>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-almeida-975b1321a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com/gabrielalmeida.su@gmail.com)
-
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielalmeida-santos&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalmeida-santos&layout=compact&theme=radical)
+
 
 ## Tecnologias que eu uso!
 
