@@ -5,8 +5,6 @@
 
 ## Stacks principais!
 
-## Stacks principais!
-
 <div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
 
 <img alt="node" height="30" width="40"
