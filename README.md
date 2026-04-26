@@ -3,29 +3,12 @@
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielalmeidasoares&show_icons=true&theme=radical)
 
-## Stacks principais!
+### Stacks principais!
 
-<div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
-
-<img alt="node" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-<img alt="git" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<img alt="java" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
-<img alt="spring" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-
-<img alt="nextjs" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-
-<img alt="mysql" height="50" width="70"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-
-<img alt="docker" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
