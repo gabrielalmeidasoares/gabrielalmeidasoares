@@ -1,7 +1,7 @@
 ## Opa!😀
 </br>
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielalmeidasoares&show_icons=true&theme=ayu-mirage&hide_border=true)
+![Gabriel GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielalmeidasoares&show_icons=true&theme=ayu-mirage)
 
 ### Stacks principais!
 
