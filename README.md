@@ -7,7 +7,7 @@ Passionate Backend Developer focused on building scalable applications using Jav
 
 ![Gabriel GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielalmeidasoares&show_icons=true&theme=ayu-mirage)
 
-### Stacks
+## Tech Stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
