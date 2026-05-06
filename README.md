@@ -1,4 +1,4 @@
-## Backend Developer | Java & Spring Boot
+## Backend Developer
 </br>
 
 <p>
