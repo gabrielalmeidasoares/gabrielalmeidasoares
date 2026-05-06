@@ -1,4 +1,4 @@
-# Backend Developer | Java & Spring Boot
+## Backend Developer | Java & Spring Boot
 </br>
 
 ![Gabriel GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielalmeidasoares&show_icons=true&theme=ayu-mirage)
