@@ -1,6 +1,10 @@
 ## Backend Developer | Java & Spring Boot
 </br>
 
+<p>
+Passionate Backend Developer focused on building scalable applications using Java, Spring Boot, Node.js, MySQL, PostgreSQL and Docker.
+</p>
+
 ![Gabriel GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielalmeidasoares&show_icons=true&theme=ayu-mirage)
 
 ### Stacks
